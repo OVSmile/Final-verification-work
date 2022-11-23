@@ -1,0 +1,15 @@
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\bin\Debug\net6.0\Final_VerificationWork.exe
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\bin\Debug\net6.0\Final_VerificationWork.deps.json
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\bin\Debug\net6.0\Final_VerificationWork.runtimeconfig.json
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\bin\Debug\net6.0\Final_VerificationWork.dll
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\bin\Debug\net6.0\Final_VerificationWork.pdb
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\Final_VerificationWork.csproj.AssemblyReference.cache
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\Final_VerificationWork.GeneratedMSBuildEditorConfig.editorconfig
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\Final_VerificationWork.AssemblyInfoInputs.cache
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\Final_VerificationWork.AssemblyInfo.cs
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\Final_VerificationWork.csproj.CoreCompileInputs.cache
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\Final_VerificationWork.dll
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\refint\Final_VerificationWork.dll
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\Final_VerificationWork.pdb
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\Final_VerificationWork.genruntimeconfig.cache
+X:\Учеба\Итоговая проверочная работа\Final_VerificationWork\obj\Debug\net6.0\ref\Final_VerificationWork.dll
